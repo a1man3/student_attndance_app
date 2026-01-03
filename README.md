@@ -28,13 +28,6 @@ lib/
 ├── teacher_dashboard.dart # Core dashboard logic & Responsive UI
 └── ...                   # Other helper widgets
 ```
- Installation & Setup
- Clone the repository:Bashgit clone [https://a1man3/student_attndance_app.)
-Install dependencies:Bashflutter pub get
-Firebase Setup:Create a Firebase project at Firebase Console.Add an Android app with package name com.example.student_attendance_app.Download google-services.json and place it in android/app/.Run the app:Bashflutter run
-📝 Firestore Data SchemaThe app expects the following structure in Firestore:courses (Collection)course_name (String)teacherId (String)students (Sub-collection)studentName (String)roll_no (String)studentId (String)📸 ScreenshotsLogin ScreenTeacher DashboardMark Attendance🤝 ContributingContributions, issues, and feature requests are welcome!Developed by Your Name
----
-
 ### Tips for your GitHub Upload:
 1.  **Add Real Screenshots**: In the `README`, replace the "placeholder" links with actual screenshots you take from your phone. People love to see the app in action!
 2.  **The .gitignore file**: Ensure you have a `.gitignore` file so you don't upload your `build/` folder or `google-services.json` (if you want to keep your Firebase keys private).
