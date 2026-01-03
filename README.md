@@ -28,9 +28,4 @@ lib/
 ├── teacher_dashboard.dart # Core dashboard logic & Responsive UI
 └── ...                   # Other helper widgets
 ```
-### Tips for your GitHub Upload:
-1.  **Add Real Screenshots**: In the `README`, replace the "placeholder" links with actual screenshots you take from your phone. People love to see the app in action!
-2.  **The .gitignore file**: Ensure you have a `.gitignore` file so you don't upload your `build/` folder or `google-services.json` (if you want to keep your Firebase keys private).
-3.  **The "About" Section**: On GitHub, add tags like `#flutter`, `#firebase`, and `#android` to help people find your project.
 
-**Would you like me to show you how to initialize the git repository and push this to
